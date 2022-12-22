@@ -3,11 +3,10 @@
 pipeline {
 
     agent any
-/*
+
 	tools {
         maven "maven3"
     }
-*/
     environment {
         registry = "kubesum/vprofileapp"
         registryCredential = "dockerhub"
