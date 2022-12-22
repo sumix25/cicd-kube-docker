@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
 
-@sumix25
-devopshydclub
-vprofile-project
-Public
-Code
-Issues
-10
-Pull requests
-38
-Actions
-Projects
-Security
-Insights
-vprofile-project/Jenkinsfile
-@imran78688
-imran78688 paac update 4
-Latest commit 9f4dbfb on Oct 13, 2020
- History
- 2 contributors
-@imran78688@devopshydclub
-127 lines (111 sloc)  4.17 KB
 
 pipeline {
 
