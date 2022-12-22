@@ -8,7 +8,6 @@ Explore
 
 @sumix25
 devopshydclub
-/
 vprofile-project
 Public
 Code
